@@ -19,3 +19,29 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+  border-radius: 12px;
+}
+.cat1 {
+  background-image: linear-gradient(-45deg, orange, darkorange);
+}
+.cat2 {
+  background-image: linear-gradient(-45deg, orchid, purple);
+}
+.cat3 {
+  background-image: linear-gradient(45deg, blue, rgb(40, 40, 173));
+}
+.categories h1 {
+  color: white;
+}
+.categories img {
+  width: 110px;
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgrey;
+}
