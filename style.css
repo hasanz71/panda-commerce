@@ -43,5 +43,17 @@
 
 .card {
   border: none;
+  border-radius: 10px;
   box-shadow: 5px 5px 10px lightgrey;
+}
+#contact {
+  background-color: #feeae9;
+  height: 300px;
+  border-radius: 12px;
+}
+#contact h5 {
+  color: rgb(90, 89, 89);
+}
+footer {
+  color: grey;
 }
